@@ -14,7 +14,7 @@ public class Test19
         }else if (coin.equalsIgnoreCase("penny")){
             System.out.println("this is a penny");
         }else {
-            System.out.println("this is a wrong input");
+            System.out.println("this input in invalid!");
         }
     }
 
