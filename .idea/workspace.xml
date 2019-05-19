@@ -36,10 +36,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/my_classes/Test20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="144">
               <caret line="78" column="52" selection-start-line="78" selection-start-column="52" selection-end-line="78" selection-end-column="52" />
               <folding>
                 <element signature="e#150#151#0" expanded="true" />
@@ -51,6 +51,15 @@
                 <element signature="e#618#619#0" expanded="true" />
                 <element signature="e#644#645#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/my_classes/Test21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -110,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/my_classes/Test18.java" />
         <option value="$PROJECT_DIR$/src/my_classes/Test19.java" />
         <option value="$PROJECT_DIR$/src/my_classes/Test20.java" />
+        <option value="$PROJECT_DIR$/src/my_classes/Test21.java" />
       </list>
     </option>
   </component>
@@ -171,20 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test20">
-    <configuration name="Test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_classes.Test15" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my_classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test21">
     <configuration name="Test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my_classes.Test16" />
       <module name="My_first_project" />
@@ -237,13 +234,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes.Test21" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test21" />
         <item itemvalue="Application.Test20" />
         <item itemvalue="Application.Test19" />
         <item itemvalue="Application.Test17" />
         <item itemvalue="Application.Test16" />
-        <item itemvalue="Application.Test15" />
       </list>
     </recent_temporary>
   </component>
@@ -619,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/my_classes/Test20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="144">
           <caret line="78" column="52" selection-start-line="78" selection-start-column="52" selection-end-line="78" selection-end-column="52" />
           <folding>
             <element signature="e#150#151#0" expanded="true" />
@@ -631,6 +641,13 @@
             <element signature="e#618#619#0" expanded="true" />
             <element signature="e#644#645#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my_classes/Test21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
