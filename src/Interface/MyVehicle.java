@@ -10,4 +10,3 @@ public class MyVehicle
         System.out.println(truck.brake());
     }
 }
- 
