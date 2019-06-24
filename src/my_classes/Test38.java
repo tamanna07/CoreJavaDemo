@@ -19,4 +19,13 @@ public class Test38
         Test38 obj = new Test38("Mohammed Raihan Kabir");
 
     }
+
+
+    class B
+    {
+        String h = "";
+
+
+
+    }
 }
