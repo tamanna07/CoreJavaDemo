@@ -2,6 +2,14 @@ package my_classes;
 
 public class Test37
 {
+    Test37()
+    {
+        final int age = 1000;
+        System.out.println(age);
+
+    }
+
+
     public static void main(String[] args)
     {
         Test34 execute1 = new Test34();
@@ -15,6 +23,13 @@ public class Test37
 
         System.out.println(execute2.newMath1(10,20,"Subtraction"));
 
+
+        final String name = "Mohammed";
+        //once assigned cannot be changed
+
+        System.out.println(name);
+
+        Test37 ss = new Test37();
 
     }
 }
