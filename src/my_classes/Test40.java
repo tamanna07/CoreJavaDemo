@@ -1,6 +1,5 @@
 package my_classes;
 
-import Interface.Car2;
 
 public class Test40
 {

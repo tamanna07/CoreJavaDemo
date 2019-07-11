@@ -1,8 +1,10 @@
 package my_classes;
 
 import Interface.Car2;
+import Interface.Truck2;
+import abstruct.ShortHuman;
+import abstruct.TallHuman;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 public class Test39
 {
@@ -140,6 +142,27 @@ public class Test39
 
         execute2.wheels("Dunlop","Whitestone","Continental");
         execute2.engine();
+
+        Truck2 execute3 = new Truck2();
+
+        execute3.wheels("continental tire", "bangla tire","autozone tire");
+        execute3.engine();
+
+        /////////////////////////////////////////////////////////////////////////////////////////////////
+        //abstract
+
+        TallHuman execute4 = new TallHuman();
+        ShortHuman execute5 = new ShortHuman();
+
+        execute4.speak("John","Noah","Sierra");
+        execute4.run();
+        execute4.math("math",23,22);
+
+
+        execute5.speak("perry","kate","leslie");
+        execute5.run();
+
+
 
 
 
