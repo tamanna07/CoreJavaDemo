@@ -4,6 +4,9 @@ import Interface.Car2;
 import Interface.Truck2;
 import abstruct.ShortHuman;
 import abstruct.TallHuman;
+import polymorphism.CanSoda;
+import polymorphism.Coke;
+import polymorphism.Sprite;
 
 
 public class Test39
@@ -161,6 +164,44 @@ public class Test39
 
         execute5.speak("perry","kate","leslie");
         execute5.run();
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////
+
+        //polymorphism
+
+        Coke run1 = new Coke();
+
+
+        run1.color();
+        run1.location("Las Vegas","Los Angeles");
+        run1.location("Israel");
+
+        System.out.println("************************");
+
+        Sprite run2 = new Sprite();
+
+        run2.color();
+        run2.location("New York","Washington DC");
+        run2.location("Philippines");
+
+        System.out.println("////////////////////////////////////");
+        System.out.println("------------------------------------");
+
+
+        //polymorphic Arrays
+        CanSoda polyArray[] = new CanSoda[2];
+
+        polyArray[0] = new Coke();
+        polyArray[1] = new Sprite();
+
+        for (int p = 0; p < polyArray.length; p++)
+        {
+            polyArray[p].color();
+            polyArray[p].location("Israel");
+            polyArray[p].location("Los Angeles","Las Vegas");
+
+        }
+
 
 
 
