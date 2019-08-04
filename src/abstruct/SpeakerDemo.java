@@ -8,8 +8,6 @@ public class SpeakerDemo
         Siri ss = new Siri();
 
 
-        aa.search = " alexa GOOGLE.COM";
-        ss.search = "siri Yahoo.com";
 
         Speaker[] obj = new Speaker[2];
 

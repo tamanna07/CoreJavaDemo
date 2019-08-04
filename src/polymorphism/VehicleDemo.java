@@ -1,7 +1,5 @@
 package polymorphism;
 
-import my_classes.Test38;
-
 public class VehicleDemo
 {
     public static void main(String[] args)
