@@ -2,148 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/META-INF/My_first_project.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/META-INF/My_first_project.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Tutotial1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/abstruct/SpeakerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/abstruct/SpeakerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Alien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/AnimalZoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Animals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Animals2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/AnimalsExt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/BuildRobot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/CarObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/IfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Mars.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/MethodDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/ObjPPL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Peopel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/PhoneBuild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Practice2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Speaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/StringDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test32.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test36.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test37.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test38$B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test39.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Test40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/VehicleBuild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes/eTest12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/polymorphism/VehicleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/polymorphism/VehicleDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tutotial1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Tutotial1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstruct/SpeakerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstruct/SpeakerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Alien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/AnimalZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/AnimalZoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Animals2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Animals2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/AnimalsExt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/AnimalsExt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/BuildRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/BuildRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/CarObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/CarObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Mars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Mars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/MethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/ObjPPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/ObjPPL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Peopel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Peopel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/PhoneBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/PhoneBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Speaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Test40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Test40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/VehicleBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/VehicleBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes/eTest12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes1/eTest12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/VehicleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/VehicleDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -193,13 +52,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MakeVehicle">
-    <configuration name="Human2demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Human2demo" />
+  <component name="RunManager" selected="Application.JoptionExample">
+    <configuration name="JoptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes2.JoptionExample" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interface.*" />
+          <option name="PATTERN" value="my_classes2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanDecision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes2.LoanDecision" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_classes2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_classes1.Practice3" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes2.Practice" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="my_classes1.*" />
+          <option name="PATTERN" value="my_classes2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeakerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstruct.SpeakerDemo" />
+    <configuration name="ifStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes2.ifStatements" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstruct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_classes1.Zoo" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my_classes1.*" />
+          <option name="PATTERN" value="my_classes2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JoptionExample" />
+        <item itemvalue="Application.LoanDecision" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.ifStatements" />
         <item itemvalue="Application.MakeVehicle" />
-        <item itemvalue="Application.SpeakerDemo" />
-        <item itemvalue="Application.Human2demo" />
-        <item itemvalue="Application.Practice3" />
-        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
