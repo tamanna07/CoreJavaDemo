@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes2/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/my_classes2/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_classes2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes2/Practice.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoptionExample">
+  <component name="RunManager" selected="Application.Practice2">
     <configuration name="JoptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my_classes2.JoptionExample" />
       <module name="My_first_project" />
@@ -79,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_classes2.MakeVehicle" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes2.Practice" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_classes2.Practice" />
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_classes2.Practice2" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.JoptionExample" />
         <item itemvalue="Application.LoanDecision" />
-        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.ifStatements" />
-        <item itemvalue="Application.MakeVehicle" />
       </list>
     </recent_temporary>
   </component>

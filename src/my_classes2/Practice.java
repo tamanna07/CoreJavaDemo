@@ -31,6 +31,7 @@ public class Practice
         System.out.println("What is your age? ");
         age = keyboard.nextInt();
 
+
     }
 
 }
