@@ -82,6 +82,6 @@ public class ConditionalStatements
                 day = "invalid";
 
         }
-        
+
     }
 }
