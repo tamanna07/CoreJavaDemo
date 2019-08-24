@@ -8,6 +8,7 @@ public abstract class Vehicle
     the list that must have to be in all model vehicles. Make sure to provide Make, Model, and Year of the car that you
     work on.
      */
+
     public String makeVehicle;
     public String modelVehicle;
     public int yearVehicle;
@@ -23,10 +24,11 @@ public abstract class Vehicle
                          "also includes an artificial intelligence. READY FOR A COMMAND...";
 
         String msgFalse = "Sorry! this function doesn't come with this vehicle.";
+
         if (navigationMode != false) {
-            System.out.println();
+            System.out.println(msgTrue);
         }else {
-            System.out.println();
+            System.out.println(msgFalse);
             }
     }
 }
