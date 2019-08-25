@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_abstraction/Vehicle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_abstraction/Vehicle2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/my_classes2/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/my_classes2/SwitchCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_classes2/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_classes2/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_abstraction/Chevrolet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_abstraction/Mustang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_abstraction/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_abstraction/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_abstraction/VehicleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_abstraction/VehicleDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
