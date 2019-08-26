@@ -10,9 +10,13 @@ public class ExceptionHandlingUsingThrows
         locations[1] = "NJ";
         locations[2] = "PA";
 
-        System.out.println(20/0);
+        System.out.println(20/2);
         //Thread.sleep(5000);                //ex: compile time error.
         // Thread.sleep(); to pause the program for an amount of time chosen
-        System.out.println("location: "+locations[5]);
+        System.out.println("location: "+locations[2]);
+
+        ExceptionHandlingUsingThrows obj = new ExceptionHandlingUsingThrows();
+
     }
+
 }

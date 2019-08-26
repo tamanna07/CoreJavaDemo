@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_scanner/UseScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring/SwitchCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoringTrycatch/ExceptionHandlingUsingThrows.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoringTrycatch/ExceptionHandlingUsingThrows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoringTrycatch/UseTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoringTrycatch/UseTryCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoringTrycatch/ExceptionHandlingUsingThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoringTrycatch/ExceptionHandlingUsingThrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoringTrycatch/UseTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoringTrycatch/UseTryCatch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +45,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="my_classes1" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/tutoring_DataReader" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseTryCatch">
+  <component name="RunManager" selected="Application.UseFileAndBufferedReaderUsingTryCatch">
     <configuration name="ExceptionHandlingUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoringTrycatch.ExceptionHandlingUsingThrows" />
       <module name="My_first_project" />
@@ -67,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring.SwitchCase" />
+    <configuration name="UseFileAndBufferedReaderUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileAndBufferedReaderUsingThrows" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_classes2.SwitchCase" />
+    <configuration name="UseFileAndBufferedReaderUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileAndBufferedReaderUsingTryCatch" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="my_classes2.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_scanner.UseScanner" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_abstraction.VehicleDemo" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseFileAndBufferedReaderUsingTryCatch" />
+        <item itemvalue="Application.UseFileAndBufferedReaderUsingThrows" />
+        <item itemvalue="Application.UseScanner" />
         <item itemvalue="Application.UseTryCatch" />
         <item itemvalue="Application.ExceptionHandlingUsingThrows" />
-        <item itemvalue="Application.SwitchCase (1)" />
-        <item itemvalue="Application.VehicleDemo" />
-        <item itemvalue="Application.SwitchCase" />
       </list>
     </recent_temporary>
   </component>

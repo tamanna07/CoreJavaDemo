@@ -57,6 +57,27 @@ public class UseTryCatch
 
         System.out.println("yo wasssup");
 
+        try
+        {
+            UseTryCatch obj = new UseTryCatch();
+
+        obj.nullEx(null);
+        }catch (NullPointerException ex)
+        {
+            System.out.println("wrong value for nullEx");
+        }finally {
+            System.out.println("it works");
+        }
+
     }
+
+
+    public void nullEx(String s)            //NullpointException is a runtime exception
+    {
+        System.out.println(s.toLowerCase());
+    }
+
+
+
 
 }
