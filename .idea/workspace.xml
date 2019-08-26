@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/SwitchCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring/SwitchCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwitchCase (1)">
-    <configuration name="PhoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_abstraction.PhoneDemo" />
+  <component name="RunManager" selected="Application.UseTryCatch">
+    <configuration name="ExceptionHandlingUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoringTrycatch.ExceptionHandlingUsingThrows" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_abstraction.*" />
+          <option name="PATTERN" value="tutoringTrycatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleDatabase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_encapsulation.VehicleDatabase" />
+    <configuration name="UseTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoringTrycatch.UseTryCatch" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_encapsulation.*" />
+          <option name="PATTERN" value="tutoringTrycatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseTryCatch" />
+        <item itemvalue="Application.ExceptionHandlingUsingThrows" />
         <item itemvalue="Application.SwitchCase (1)" />
         <item itemvalue="Application.VehicleDemo" />
         <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.PhoneDemo" />
-        <item itemvalue="Application.VehicleDatabase" />
       </list>
     </recent_temporary>
   </component>
