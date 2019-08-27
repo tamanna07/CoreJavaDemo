@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_DataWriter/UseFileWriterUsingThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_enum/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_enum/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_enum/VehicleMarket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseFileReaderUsingScanner">
+  <component name="RunManager" selected="Application.VehicleMarket">
     <configuration name="GetFileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.GetFileInfo" />
       <module name="My_first_project" />
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFileAndBufferedReaderUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileAndBufferedReaderUsingTryCatch" />
+    <configuration name="TestState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_enum.TestState" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="PATTERN" value="tutoring_enum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFileWriterUsingThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.UseFileWriterUsingThrows" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_DataWriter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UseFileWriterUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.UseFileWriterUsingTryCatch" />
       <module name="My_first_project" />
@@ -125,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VehicleMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_enum.VehicleMarket" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VehicleMarket" />
+        <item itemvalue="Application.TestState" />
         <item itemvalue="Application.UseFileReaderUsingScanner" />
         <item itemvalue="Application.GetFileInfoUsingThrows" />
         <item itemvalue="Application.UseFileWriterUsingTryCatch" />
-        <item itemvalue="Application.UseFileWriterUsingThrows" />
-        <item itemvalue="Application.UseFileAndBufferedReaderUsingTryCatch" />
       </list>
     </recent_temporary>
   </component>
