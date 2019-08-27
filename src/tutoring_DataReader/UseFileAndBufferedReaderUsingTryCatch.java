@@ -28,7 +28,7 @@ public class UseFileAndBufferedReaderUsingTryCatch
                 br.close();
             }catch (Exception ex2)
             {
-                
+
             }
 
         }
