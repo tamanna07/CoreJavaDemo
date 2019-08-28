@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tutoring_superKeyword/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VehicleMarket">
-    <configuration name="UseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_array.UseArrays" />
+  <component name="RunManager" selected="Application.TestComputer">
+    <configuration name="TestComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_superKeyword.TestComputer" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_array.*" />
+          <option name="PATTERN" value="tutoring_superKeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFileAndBufferedReaderUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileAndBufferedReaderUsingTryCatch" />
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.UseArrayList" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="PATTERN" value="tutoring_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestComputer" />
+        <item itemvalue="Application.UseArrayList" />
         <item itemvalue="Application.VehicleMarket" />
         <item itemvalue="Application.UseOfExceptions" />
         <item itemvalue="Application.UseFileReaderUsingScanner" />
-        <item itemvalue="Application.UseFileAndBufferedReaderUsingTryCatch" />
-        <item itemvalue="Application.UseArrays" />
       </list>
     </recent_temporary>
   </component>
