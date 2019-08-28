@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_enum/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_enum/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_enum/VehicleMarket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileAndBufferedReaderUsingTryCatch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +60,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.VehicleMarket">
-    <configuration name="GetFileInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.GetFileInfo" />
+    <configuration name="UseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_array.UseArrays" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="PATTERN" value="tutoring_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_enum.TestState" />
+    <configuration name="UseFileAndBufferedReaderUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.UseFileAndBufferedReaderUsingTryCatch" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_enum.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFileWriterUsingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataWriter.UseFileWriterUsingTryCatch" />
+    <configuration name="UseOfExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoringTrycatch.UseOfExceptions" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataWriter.*" />
+          <option name="PATTERN" value="tutoringTrycatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,10 +128,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.VehicleMarket" />
-        <item itemvalue="Application.TestState" />
+        <item itemvalue="Application.UseOfExceptions" />
         <item itemvalue="Application.UseFileReaderUsingScanner" />
-        <item itemvalue="Application.GetFileInfoUsingThrows" />
-        <item itemvalue="Application.UseFileWriterUsingTryCatch" />
+        <item itemvalue="Application.UseFileAndBufferedReaderUsingTryCatch" />
+        <item itemvalue="Application.UseArrays" />
       </list>
     </recent_temporary>
   </component>

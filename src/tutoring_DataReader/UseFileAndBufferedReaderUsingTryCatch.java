@@ -9,7 +9,7 @@ public class UseFileAndBufferedReaderUsingTryCatch
     {
         FileReader fr = null;
         BufferedReader br = null;
-        String filePath = "/Users/fortunecookie/IdeaProjects/My_first_project/sr/tutoring_DataReader/PracticeFileReader";
+        String filePath = "/Users/fortunecookie/IdeaProjects/My_first_project/src/tutoring_DataReader/PracticeFileReader";
     try {
         fr = new FileReader(filePath);
         br = new BufferedReader(fr);
