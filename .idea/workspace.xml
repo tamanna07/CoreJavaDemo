@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring/UseNestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_superKeyword/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_superKeyword/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/RunShapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/Shapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/UseNestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring/UseNestedLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring/UseNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring/UseNestedLoop.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -60,7 +62,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UseNestedLoop">
+  <component name="RunManager" selected="Application.ArrayListHW">
+    <configuration name="ArrayListHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.ArrayListHW" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListHWMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.ArrayListHWMain" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunShapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring.RunShapes" />
       <module name="My_first_project" />
@@ -87,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.UseArrayList" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UseNestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring.UseNestedLoop" />
       <module name="My_first_project" />
@@ -113,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleMarket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_enum.VehicleMarket" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tutoring_enum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListHW" />
+        <item itemvalue="Application.ArrayListHWMain" />
         <item itemvalue="Application.UseNestedLoop" />
         <item itemvalue="Application.RunShapes" />
         <item itemvalue="Application.TestComputer" />
-        <item itemvalue="Application.UseArrayList" />
-        <item itemvalue="Application.VehicleMarket" />
       </list>
     </recent_temporary>
   </component>
