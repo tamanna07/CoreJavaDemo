@@ -4,16 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-    /*
-        Name: Mohammed Raihan Kabir
-        Student_id: 3997NY
-        Task: ArrayList HW
-     */
-
 public class ArrayListHW
 {
 
     public static void main(String[] args) throws InterruptedException {
+
         String welcomeMsg = "|--WELCOME TO MAYO CLINIC--|";
         Scanner userFirstName = new Scanner(System.in);
         Scanner userLastName = new Scanner(System.in);

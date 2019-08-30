@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/RunShapes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/Shapes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring/UseNestedLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring/UseNestedLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring/UseNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring/UseNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
