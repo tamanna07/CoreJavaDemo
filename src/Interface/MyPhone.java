@@ -4,7 +4,7 @@ public class MyPhone
 {
     public static void main(String[] args)
     {
-        Android execute = new Android();
+        Phone execute = new Android();
 
         System.out.println(execute.chargingPort());
         System.out.println(execute.speaker());

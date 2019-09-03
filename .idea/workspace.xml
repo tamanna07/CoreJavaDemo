@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tutoring_jdbc/RunMovieShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fortunecookie.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_DataReader/GetFileInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_DataWriter/ListOfMovies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_arraylist/PracticeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_scanner/UseOfScanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/My_first_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My_first_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Interface/Android.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/Interface/Android.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Interface/MyPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/Interface/MyPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/ArrayListHW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/ArrayListHW.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/Android.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Android.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interface/MyPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/MyPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +48,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -63,13 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunMovieShelf">
-    <configuration name="Movie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_jdbc.Movie1" />
+  <component name="RunManager" selected="Application.PracticeArrayList">
+    <configuration name="ArrayListHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.ArrayListHW" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_jdbc.*" />
+          <option name="PATTERN" value="tutoring_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_jdbc.Movie2" />
+    <configuration name="GetFileInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.GetFileInformation" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_jdbc.*" />
+          <option name="PATTERN" value="tutoring_DataReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_jdbc.RunMovieCollection" />
+    <configuration name="MyPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interface.MyPhone" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_jdbc.*" />
+          <option name="PATTERN" value="Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMovieShelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_jdbc.RunMovieShelf" />
+    <configuration name="PracticeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.PracticeArrayList" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_jdbc.*" />
+          <option name="PATTERN" value="tutoring_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_map.UseMap" />
+    <configuration name="UseOfScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_scanner.UseOfScanner" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_map.*" />
+          <option name="PATTERN" value="tutoring_scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunMovieShelf" />
-        <item itemvalue="Application.RunMovieCollection" />
-        <item itemvalue="Application.Movie1" />
-        <item itemvalue="Application.Movie2" />
-        <item itemvalue="Application.UseMap" />
+        <item itemvalue="Application.PracticeArrayList" />
+        <item itemvalue="Application.MyPhone" />
+        <item itemvalue="Application.UseOfScanner" />
+        <item itemvalue="Application.ArrayListHW" />
+        <item itemvalue="Application.GetFileInformation" />
       </list>
     </recent_temporary>
   </component>

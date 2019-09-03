@@ -17,7 +17,7 @@ public class ArrayListHW
         System.out.println();
         Thread.sleep(500);
 
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 2; i++) {
 
                 List<String> users = new ArrayList<String>();
 
