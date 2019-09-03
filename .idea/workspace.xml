@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fortunecookie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_DataReader/GetFileInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_DataReader/UseFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_DataWriter/ListOfMovies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_arraylist/PracticeArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tutoring_scanner/UseOfScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraylist_scanario/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraylist_scanario/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraylist_scanario/EmployeeApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_first_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My_first_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Interface/Android.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/Interface/Android.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/Interface/MyPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/Interface/MyPhone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/ArrayListHW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/ArrayListHW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Android.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Android.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/MyPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/MyPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/PracticeArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/PracticeArrayList.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PracticeArrayList">
+  <component name="RunManager" selected="Application.EmployeeApp">
     <configuration name="ArrayListHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.ArrayListHW" />
       <module name="My_first_project" />
@@ -88,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFileInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_DataReader.GetFileInformation" />
+    <configuration name="EmployeeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist_scanario.EmployeeApp" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_DataReader.*" />
+          <option name="PATTERN" value="arraylist_scanario.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeApp" />
         <item itemvalue="Application.PracticeArrayList" />
         <item itemvalue="Application.MyPhone" />
         <item itemvalue="Application.UseOfScanner" />
         <item itemvalue="Application.ArrayListHW" />
-        <item itemvalue="Application.GetFileInformation" />
       </list>
     </recent_temporary>
   </component>
