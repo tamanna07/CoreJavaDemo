@@ -16,7 +16,7 @@ public class UseQueue
         patientsLists.add("Sam");
 
         System.out.println(patientsLists.peek());   //peek is to verify which value has last input
-        patientsLists.poll();                       //pop is to remove
+        patientsLists.poll();                       //poll is to remove
         System.out.println(patientsLists.peek());
     }
 }

@@ -22,5 +22,12 @@ public class UseMap
         {
             System.out.println(e.getKey()+ "-> "+ e.getValue());
         }
+        for(String i:earth.keySet()){
+            System.out.println(i);
+        }
+        for(String i:earth.values()){
+            System.out.println(i);
+        }
+
     }
 }
