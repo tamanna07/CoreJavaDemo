@@ -50,7 +50,7 @@ public class ArrayListHW
     // - ArrayList
 
     // for loop
-    // inside  for loop, youre gonna need to ask the user for
+    // inside  for loop, your'e gonna need to ask the user for
     // first name, last name and age
     // and then you're gonna create a User object from these 3 values
     // and then store the User object into the ArrayList<User>

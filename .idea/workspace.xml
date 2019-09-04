@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89797ecc-b46c-49df-a4e1-3365724e8a0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arraylist_scanario/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist_scanario/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist_scanario/EmployeeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_singletonClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutoring_singletonClass/RunCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/PracticeArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/PracticeArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/UseArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/My_first_project/tutoring_arraylist/UseArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutoring_arraylist/ArrayListHW.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeApp">
+  <component name="RunManager" selected="Application.UseArrayList">
     <configuration name="ArrayListHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.ArrayListHW" />
       <module name="My_first_project" />
@@ -92,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.MyPhone" />
-      <module name="My_first_project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PracticeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.PracticeArrayList" />
       <module name="My_first_project" />
@@ -118,12 +105,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseOfScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tutoring_scanner.UseOfScanner" />
+    <configuration name="RunCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_singletonClass.RunCar" />
       <module name="My_first_project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tutoring_scanner.*" />
+          <option name="PATTERN" value="tutoring_singletonClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutoring_arraylist.UseArrayList" />
+      <module name="My_first_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutoring_arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseArrayList" />
+        <item itemvalue="Application.ArrayListHW" />
+        <item itemvalue="Application.RunCar" />
         <item itemvalue="Application.EmployeeApp" />
         <item itemvalue="Application.PracticeArrayList" />
-        <item itemvalue="Application.MyPhone" />
-        <item itemvalue="Application.UseOfScanner" />
-        <item itemvalue="Application.ArrayListHW" />
       </list>
     </recent_temporary>
   </component>
